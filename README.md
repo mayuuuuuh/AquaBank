@@ -352,4 +352,206 @@ AquaBankは、
 
 より長く水素を保持することを目指しています。
 
+<!-- 比較 -->
+
+<section class="comparison">
+
+    <div class="container">
+
+        <h2>選ばれる理由は、毎日続けやすいこと。</h2>
+
+        <p class="section-copy">
+
+            飲み水は毎日のことだからこそ、
+
+            手軽さ・経済性・使いやすさも大切です。
+
+        </p>
+
+        <div class="image-box">
+
+            <img src="assets/comparison.jpg"
+                 alt="AquaBank比較表">
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- メッセージ -->
+
+<section class="message">
+
+    <div class="container">
+
+        <h2>
+
+            水を選ぶことは、
+
+            <br>
+
+            未来を選ぶこと。
+
+        </h2>
+
+        <p>
+
+            毎日飲む水。
+
+        </p>
+
+        <p>
+
+            毎日使う水。
+
+        </p>
+
+        <p>
+
+            その一杯は、
+
+            5年後、10年後の自分や、
+
+            大切な人へとつながっています。
+
+        </p>
+
+        <p>
+
+            未来は、
+
+            特別な一日ではなく、
+
+            今日という一日の積み重ね。
+
+        </p>
+
+        <p>
+
+            だからこそ、
+
+            毎日の"当たり前"を、
+
+            少しだけ変えてみませんか。
+
+        </p>
+
+        <h3>
+
+            水から始まるウェルネス。
+
+        </h3>
+
+        <h2 class="future-message">
+
+            未来の水との出会いが、
+
+            <br>
+
+            未来のあなたとの出会いになる。
+
+        </h2>
+
+    </div>
+
+</section>
+
+
+
+<!-- CTA -->
+
+<section id="contact" class="cta">
+
+    <div class="container">
+
+        <h2>
+
+            まずはお気軽に
+
+            ご相談ください。
+
+        </h2>
+
+        <p>
+
+            AquaBankについて、
+
+            ご不明な点や導入のご相談など、
+
+            お気軽にLINEよりお問い合わせください。
+
+        </p>
+
+        <div class="cta-buttons">
+
+            <a class="line-btn"
+
+               href="https://lin.ee/YXNW0vK"
+
+               target="_blank">
+
+               LINEで相談する
+
+            </a>
+
+            <a class="entry-btn"
+
+               href="https://myotomo.club/settlement/signupwater?ref=6114595&openExternalBrowser=1"
+
+               target="_blank">
+
+               お申し込みはこちら
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- Footer -->
+
+<footer>
+
+    <div class="container">
+
+        <img src="assets/logo.jpg"
+
+             class="footer-logo"
+
+             alt="AquaBank">
+
+        <p>
+
+            Future Water
+
+        </p>
+
+        <p>
+
+            水から始まるウェルネス
+
+        </p>
+
+        <p>
+
+            © 2025 AquaBank
+
+        </p>
+
+    </div>
+
+</footer>
+
+
+
+</body>
+
+</html>
 </p>
