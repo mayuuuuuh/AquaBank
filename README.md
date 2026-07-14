@@ -356,26 +356,26 @@ AquaBankは、
 
 <section class="comparison">
 
-    <div class="container">
+<div class="container">
 
-        <h2>選ばれる理由は、毎日続けやすいこと。</h2>
+<h2>選ばれる理由は、毎日続けやすいこと。</h2>
 
-        <p class="section-copy">
+<p class="section-copy">
 
-            飲み水は毎日のことだからこそ、
+飲み水は毎日のことだからこそ、
 
-            手軽さ・経済性・使いやすさも大切です。
+手軽さ・経済性・使いやすさも大切です。
 
-        </p>
+</p>
 
-        <div class="image-box">
+<div class="image-box">
 
-            <img src="assets/comparison.jpg"
-                 alt="AquaBank比較表">
+<img src="assets/comparison.jpg"
+alt="AquaBank比較表">
 
-        </div>
+</div>
 
-    </div>
+</div>
 
 </section>
 
@@ -385,77 +385,77 @@ AquaBankは、
 
 <section class="message">
 
-    <div class="container">
+<div class="container">
 
-        <h2>
+<h2>
 
-            水を選ぶことは、
+水を選ぶことは、
 
-            <br>
+<br>
 
-            未来を選ぶこと。
+未来を選ぶこと。
 
-        </h2>
+</h2>
 
-        <p>
+<p>
 
-            毎日飲む水。
+毎日飲む水。
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            毎日使う水。
+毎日使う水。
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            その一杯は、
+その一杯は、
 
-            5年後、10年後の自分や、
+5年後、10年後の自分や、
 
-            大切な人へとつながっています。
+大切な人へとつながっています。
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            未来は、
+未来は、
 
-            特別な一日ではなく、
+特別な一日ではなく、
 
-            今日という一日の積み重ね。
+今日という一日の積み重ね。
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            だからこそ、
+だからこそ、
 
-            毎日の"当たり前"を、
+毎日の"当たり前"を、
 
-            少しだけ変えてみませんか。
+少しだけ変えてみませんか。
 
-        </p>
+</p>
 
-        <h3>
+<h3>
 
-            水から始まるウェルネス。
+水から始まるウェルネス。
 
-        </h3>
+</h3>
 
-        <h2 class="future-message">
+<h2 class="future-message">
 
-            未来の水との出会いが、
+未来の水との出会いが、
 
-            <br>
+<br>
 
-            未来のあなたとの出会いになる。
+未来のあなたとの出会いになる。
 
-        </h2>
+</h2>
 
-    </div>
+</div>
 
 </section>
 
@@ -465,51 +465,51 @@ AquaBankは、
 
 <section id="contact" class="cta">
 
-    <div class="container">
+<div class="container">
 
-        <h2>
+<h2>
 
-            まずはお気軽に
+まずはお気軽に
 
-            ご相談ください。
+ご相談ください。
 
-        </h2>
+</h2>
 
-        <p>
+<p>
 
-            AquaBankについて、
+AquaBankについて、
 
-            ご不明な点や導入のご相談など、
+ご不明な点や導入のご相談など、
 
-            お気軽にLINEよりお問い合わせください。
+お気軽にLINEよりお問い合わせください。
 
-        </p>
+</p>
 
-        <div class="cta-buttons">
+<div class="cta-buttons">
 
-            <a class="line-btn"
+<a class="line-btn"
 
-               href="https://lin.ee/YXNW0vK"
+href="https://lin.ee/YXNW0vK"
 
-               target="_blank">
+target="_blank">
 
-               LINEで相談する
+LINEで相談する
 
-            </a>
+</a>
 
-            <a class="entry-btn"
+<a class="entry-btn"
 
-               href="https://myotomo.club/settlement/signupwater?ref=6114595&openExternalBrowser=1"
+href="https://myotomo.club/settlement/signupwater?ref=6114595&openExternalBrowser=1"
 
-               target="_blank">
+target="_blank">
 
-               お申し込みはこちら
+お申し込みはこちら
 
-            </a>
+</a>
 
-        </div>
+</div>
 
-    </div>
+</div>
 
 </section>
 
@@ -519,33 +519,33 @@ AquaBankは、
 
 <footer>
 
-    <div class="container">
+<div class="container">
 
-        <img src="assets/logo.jpg"
+<img src="assets/logo.jpg"
 
-             class="footer-logo"
+class="footer-logo"
 
-             alt="AquaBank">
+alt="AquaBank">
 
-        <p>
+<p>
 
-            Future Water
+Future Water
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            水から始まるウェルネス
+水から始まるウェルネス
 
-        </p>
+</p>
 
-        <p>
+<p>
 
-            © 2025 AquaBank
+© 2025 AquaBank
 
-        </p>
+</p>
 
-    </div>
+</div>
 
 </footer>
 
